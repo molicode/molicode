@@ -16,9 +16,7 @@
 </p>
 
 [banner]: https://raw.githubusercontent.com/molicode/molicode/master/banner.jpg
-
-## [website]: http://molicode.github.io/
-
+[website]: http://molicode.github.io/
 [github]: https://github.com/molicode
 [linkedin]: https://linkedin.com/in/molicode
 [hackerrank]: https://hackerrank.com/molicode
