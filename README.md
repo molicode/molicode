@@ -28,7 +28,7 @@
     <a href="https://dribbble.com/molicode" alt="Dribbble">
         <img src="https://img.shields.io/badge/-dribbble-DA1B66?style=flat-square&logo=dribbble.to&logoColor=white" /></a>
     <a href="https://medium.com/@molicode1347" alt="Medium">
-        <img src="https://img.shields.io/badge/-medium-FFFFFF?style=flat-square&logo=medium.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-medium-lightgrey?style=flat-square&logo=medium.to&logoColor=white" /></a>
     <a href="https://www.codechef.com/users/molicode" alt="CodeChef">
         <img src="https://img.shields.io/badge/-codechef-56311A?style=flat-square&logo=codechef.to&logoColor=white" /></a>
     <a href="https://codeforces.com/profile/molicode" alt="CodeForces">
@@ -36,7 +36,7 @@
     <a href="https://auth.geeksforgeeks.org/user/molicode1347/profile" alt="GeeksForGeeks">
         <img src="https://img.shields.io/badge/-geeksforgeeks-2AB070?style=flat-square&logo=geeksforgeeks.to&logoColor=white" /></a>
     <a href="https://www.topcoder.com/members/molicode" alt="TopCoder">
-        <img src="https://img.shields.io/badge/-topcoder-2A2A2A?style=flat-square&logo=topcoder.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-topcoder-lightgrey?style=flat-square&logo=topcoder.to&logoColor=white" /></a>
 </p>
 
 [banner]: https://raw.githubusercontent.com/molicode/molicode/master/banner.jpg
