@@ -16,11 +16,11 @@
      <a href="https://twitter.com/moli_code" alt="Twitter">
         <img src="https://img.shields.io/badge/-Twitter-1A91DA?style=flat-square&logo=twitter&logoColor=white" /></a>
     <a href="https://codepen.io/molicode" alt="CodePen">
-        <img src="https://img.shields.io/badge/-CodePen-lightgrey?style=flat-square&logo=codepen&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" /></a>
     <a href="https://dev.to/molicode" alt="Dev">
         <img src="https://img.shields.io/badge/-dev-363D44?style=flat-square&logo=dev.to&logoColor=white" /></a>
     <a href="https://codesandbox.com/molicode1347" alt="CodeSandBox">
-        <img src="https://img.shields.io/badge/-CodeSandBox-lightgrey?style=flat-square&logo=codesandbox.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-CodeSandBox-000000?style=flat-square&logo=codesandbox.to&logoColor=white" /></a>
     <a href="https://kaggle.com/molicode" alt="Kaggle">
         <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle.to&logoColor=white" /></a>
     <a href="https://fb.com/molicode1347" alt="Facebook">
@@ -36,7 +36,7 @@
     <a href="https://auth.geeksforgeeks.org/user/molicode1347/profile" alt="GeeksForGeeks">
         <img src="https://img.shields.io/badge/-GeeksForGeeks-2AB070?style=flat-square&logo=geeksforgeeks.to&logoColor=white" /></a>
     <a href="https://www.topcoder.com/members/molicode" alt="TopCoder">
-        <img src="https://img.shields.io/badge/-TopCoder-lightgrey?style=flat-square&logo=topcoder.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-TopCoder-000000?style=flat-square&logo=topcoder.to&logoColor=white" /></a>
 </p>
 
 [banner]: https://raw.githubusercontent.com/molicode/molicode/master/banner.jpg
