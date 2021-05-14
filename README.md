@@ -14,7 +14,8 @@
     <a href="http://molicode.github.io/" alt="website">
         <img src="https://img.shields.io/badge/-molicode.me-242424?style=flat-square&logo=circle&logoColor=white" /></a>
      <a href="https://twitter.com/moli_code" alt="Twitter">
-        <img src="https://img.shields.io/badge/-Twitter-E4405F?style=flat-square&logo=twitter&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-Twitter-#1A91DA?style=flat-square&logo=twitter&logoColor=white" /></a>
+
 </p>
 
 [banner]: https://raw.githubusercontent.com/molicode/molicode/master/banner.jpg
