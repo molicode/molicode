@@ -4,39 +4,39 @@
 
 <p id="socialIcons" align="center">
     <a href="https://linkedin.com/in/molicode" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin" /></a>
     <a href="https://hackerrank.com/molicode" alt="HackerRank">
-        <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
+        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank" /></a>
     <a href="https://stackoverflow.com/users/10636767/molicode" alt="StackOverflow">
-        <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-StackOverflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
     <a href="https://instagram.com/molicode" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
     <a href="http://molicode.github.io/" alt="Website">
         <img src="https://img.shields.io/badge/-MoliCode-242424?style=flat-square&logo=circle&logoColor=white" /></a>
      <a href="https://twitter.com/moli_code" alt="Twitter">
-        <img src="https://img.shields.io/badge/-Twitter-1A91DA?style=flat-square&logo=twitter&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
     <a href="https://codepen.io/molicode" alt="CodePen">
         <img src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" /></a>
     <a href="https://dev.to/molicode" alt="Dev">
-        <img src="https://img.shields.io/badge/-Dev-363D44?style=flat-square&logo=dev.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-Dev-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" /></a>
     <a href="https://codesandbox.com/molicode1347" alt="CodeSandBox">
         <img src="https://img.shields.io/badge/-CodeSandBox-000000?style=flat-square&logo=codesandbox.to&logoColor=white" /></a>
     <a href="https://kaggle.com/molicode" alt="Kaggle">
         <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle.to&logoColor=white" /></a>
     <a href="https://fb.com/molicode1347" alt="Facebook">
-        <img src="https://img.shields.io/badge/-Facebook-0A82EC?style=flat-square&logo=facebook.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook.to&logoColor=white" /></a>
     <a href="https://dribbble.com/molicode" alt="Dribbble">
-        <img src="https://img.shields.io/badge/-Dribbble-DA1B66?style=flat-square&logo=dribbble.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-Dribbble-EA4C89?style=flat-square&logo=dribbble.to&logoColor=white" /></a>
     <a href="https://medium.com/@molicode1347" alt="Medium">
-        <img src="https://img.shields.io/badge/-Medium-lightgrey?style=flat-square&logo=medium.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium.to&logoColor=white" /></a>
     <a href="https://www.codechef.com/users/molicode" alt="CodeChef">
-        <img src="https://img.shields.io/badge/-CodeChef-56311A?style=flat-square&logo=codechef.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef.to&logoColor=white" /></a>
     <a href="https://codeforces.com/profile/molicode" alt="CodeForces">
-        <img src="https://img.shields.io/badge/-CodeForces-405E9D?style=flat-square&logo=codeforces.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-CodeForces-1F8ACB?style=flat-square&logo=codeforces.to&logoColor=white" /></a>
     <a href="https://auth.geeksforgeeks.org/user/molicode1347/profile" alt="GeeksForGeeks">
-        <img src="https://img.shields.io/badge/-GeeksForGeeks-2AB070?style=flat-square&logo=geeksforgeeks.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-GeeksForGeeks-0F9D58?style=flat-square&logo=geeksforgeeks.to&logoColor=white" /></a>
     <a href="https://www.topcoder.com/members/molicode" alt="TopCoder">
-        <img src="https://img.shields.io/badge/-TopCoder-000000?style=flat-square&logo=topcoder.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-TopCoder-29A7DF?style=flat-square&logo=topcoder.to&logoColor=white" /></a>
 </p>
 
 [banner]: https://raw.githubusercontent.com/molicode/molicode/master/banner.jpg
