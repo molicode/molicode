@@ -4,13 +4,13 @@
 
 <p id="socialIcons" align="center">
     <a href="https://linkedin.com/in/molicode" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin" /></a>
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="https://hackerrank.com/molicode" alt="HackerRank">
-        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank" /></a>
+        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
     <a href="https://stackoverflow.com/users/10636767/molicode" alt="StackOverflow">
         <img src="https://img.shields.io/badge/-StackOverflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
     <a href="https://instagram.com/molicode" alt="Instagram">
-        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-Instagram-181717?style=flat-square&logo=instagram&logoColor=white" /></a>
     <a href="http://molicode.github.io/" alt="Website">
         <img src="https://img.shields.io/badge/-MoliCode-242424?style=flat-square&logo=circle&logoColor=white" /></a>
      <a href="https://twitter.com/moli_code" alt="Twitter">
