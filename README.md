@@ -14,7 +14,25 @@
     <a href="http://molicode.github.io/" alt="website">
         <img src="https://img.shields.io/badge/-molicode.me-242424?style=flat-square&logo=circle&logoColor=white" /></a>
      <a href="https://twitter.com/moli_code" alt="Twitter">
-        <img src="https://img.shields.io/badge/-Twitter-231A91DA?style=flat-square&logo=twitter&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
+    <a href="https://codepen.io/molicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="molicode" height="30" width="40" /></a>
+    <a href="https://dev.to/molicode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="molicode" height="30" width="40" /></a>
+    <a href="https://twitter.com/moli_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="moli_code" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/molicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="molicode" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/molicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="molicode" height="30" width="40" /></a>
+    <a href="https://codesandbox.com/molicode1347" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="molicode1347" height="30" width="40" /></a>
+    <a href="https://kaggle.com/molicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="molicode" height="30" width="40" /></a>
+    <a href="https://fb.com/molicode1347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="molicode1347" height="30" width="40" /></a>
+    <a href="https://instagram.com/molicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="molicode" height="30" width="40" /></a>
+    <a href="https://dribbble.com/molicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="molicode" height="30" width="40" /></a>
+    <a href="https://medium.com/molicode1347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="molicode1347" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/molicode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="molicode" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/molicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="molicode" height="30" width="40" /></a>
+    <a href="https://codeforces.com/profile/molicode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="molicode" height="30" width="40" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/molicode1347/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="molicode1347/profile" height="30" width="40" /></a>
+    <a href="https://www.topcoder.com/members/molicode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="molicode" height="30" width="40" /></a>
+
+</p>
 </p>
 
 [banner]: https://raw.githubusercontent.com/molicode/molicode/master/banner.jpg
