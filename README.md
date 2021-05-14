@@ -36,7 +36,7 @@
     <a href="https://auth.geeksforgeeks.org/user/molicode1347/profile" alt="GeeksForGeeks">
         <img src="https://img.shields.io/badge/-GeeksForGeeks-0F9D58?style=flat-square&logo=geeksforgeeks.to&logoColor=white" /></a>
     <a href="https://www.topcoder.com/members/molicode" alt="TopCoder">
-        <img src="https://img.shields.io/badge/-TopCoder-29A7DF?style=flat-square&logo==data:image/topcoder.svg&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-TopCoder-29A7DF?style=flat-square&logo=data:image/topcoder.svg&logoColor=white" /></a>
 
 </p>
 
