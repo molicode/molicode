@@ -11,14 +11,14 @@
         <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
     <a href="https://instagram.com/molicode" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-    <a href="http://molicode.github.io/" alt="website">
-        <img src="https://img.shields.io/badge/-molicode.me-242424?style=flat-square&logo=circle&logoColor=white" /></a>
+    <a href="http://molicode.github.io/" alt="Website">
+        <img src="https://img.shields.io/badge/-MoliCode-242424?style=flat-square&logo=circle&logoColor=white" /></a>
      <a href="https://twitter.com/moli_code" alt="Twitter">
         <img src="https://img.shields.io/badge/-Twitter-1A91DA?style=flat-square&logo=twitter&logoColor=white" /></a>
     <a href="https://codepen.io/molicode" alt="CodePen">
         <img src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" /></a>
     <a href="https://dev.to/molicode" alt="Dev">
-        <img src="https://img.shields.io/badge/-dev-363D44?style=flat-square&logo=dev.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-Dev-363D44?style=flat-square&logo=dev.to&logoColor=white" /></a>
     <a href="https://codesandbox.com/molicode1347" alt="CodeSandBox">
         <img src="https://img.shields.io/badge/-CodeSandBox-000000?style=flat-square&logo=codesandbox.to&logoColor=white" /></a>
     <a href="https://kaggle.com/molicode" alt="Kaggle">
