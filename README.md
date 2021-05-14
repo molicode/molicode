@@ -18,25 +18,25 @@
     <a href="https://codepen.io/molicode" alt="CodePen">
         <img src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" /></a>
     <a href="https://dev.to/molicode" alt="Dev">
-        <img src="https://img.shields.io/badge/-Dev-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-Dev-0A0A0A?style=flat-square&logo=dev&logoColor=white" /></a>
     <a href="https://codesandbox.com/molicode1347" alt="CodeSandBox">
-        <img src="https://img.shields.io/badge/-CodeSandBox-000000?style=flat-square&logo=codesandbox.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-CodeSandBox-000000?style=flat-square&logo=codesandbox&logoColor=white" /></a>
     <a href="https://kaggle.com/molicode" alt="Kaggle">
-        <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
     <a href="https://fb.com/molicode1347" alt="Facebook">
-        <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
     <a href="https://dribbble.com/molicode" alt="Dribbble">
-        <img src="https://img.shields.io/badge/-Dribbble-EA4C89?style=flat-square&logo=dribbble.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" /></a>
     <a href="https://medium.com/@molicode1347" alt="Medium">
-        <img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
     <a href="https://www.codechef.com/users/molicode" alt="CodeChef">
-        <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
     <a href="https://codeforces.com/profile/molicode" alt="CodeForces">
-        <img src="https://img.shields.io/badge/-CodeForces-1F8ACB?style=flat-square&logo=codeforces.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-CodeForces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
     <a href="https://auth.geeksforgeeks.org/user/molicode1347/profile" alt="GeeksForGeeks">
-        <img src="https://img.shields.io/badge/-GeeksForGeeks-0F9D58?style=flat-square&logo=geeksforgeeks.to&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-GeeksForGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" /></a>
     <a href="https://www.topcoder.com/members/molicode" alt="TopCoder">
-        <img src="https://img.shields.io/badge/-TopCoder-29A7DF?style=flat-square&logo=data:image/topcoder.svg&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-TopCoder-29A7DF?style=flat-square&logo=topcoder&logoColor=white" /></a>
 
 </p>
 
