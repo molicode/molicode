@@ -27,7 +27,7 @@
         <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
     <a href="https://dribbble.com/molicode" alt="Dribbble">
         <img src="https://img.shields.io/badge/-Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" /></a>
-    <a href="https://medium.com/@molicode1347" alt="Medium">
+    <a href="https://medium.com/@molicode" alt="Medium">
         <img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
     <a href="https://www.codechef.com/users/molicode" alt="CodeChef">
         <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
@@ -54,7 +54,7 @@
 [kaggle]: https://kaggle.com/molicode
 [facebook]: https://fb.com/molicode1347
 [dribbble]: https://dribbble.com/molicode
-[medium]: https://medium.com/@molicode1347
+[medium]: https://medium.com/@molicode
 [codechef]: https://www.codechef.com/users/molicode
 [codeforces]: https://codeforces.com/profile/molicode
 [geeksforgeeks]: https://auth.geeksforgeeks.org/user/molicode1347/profile
