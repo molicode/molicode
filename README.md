@@ -13,6 +13,8 @@
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
     <a href="http://molicode.github.io/" alt="website">
         <img src="https://img.shields.io/badge/-molicode.me-242424?style=flat-square&logo=circle&logoColor=white" /></a>
+     <a href="https://twitter.com/moli_code" alt="Twitter">
+        <img src="https://img.shields.io/badge/-Twitter-E4405F?style=flat-square&logo=twitter&logoColor=white" /></a>
 </p>
 
 [banner]: https://raw.githubusercontent.com/molicode/molicode/master/banner.jpg
@@ -22,6 +24,7 @@
 [hackerrank]: https://hackerrank.com/molicode
 [instagram]: https://instagram.com/molicode
 [stackoverflow]: https://stackoverflow.com/users/10636767/molicode
+[twitter]: https://twitter.com/moli_code
 
 <!--
 **molicode/molicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
