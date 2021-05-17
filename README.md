@@ -1,3 +1,5 @@
+## Hi there, Thanks for stopping by, Feel free see what I'm up to now! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align="top" width="30px">
+
 [![bg][banner]][website]
 
 ## Reach Me
@@ -11,7 +13,7 @@
         <img src="https://img.shields.io/badge/-StackOverflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
     <a href="https://instagram.com/molicode" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-181717?style=flat-square&logo=instagram&logoColor=white" /></a>
-    <a href="http://molicode.github.io/" alt="Website">
+    <a href="http://molicode.com/" alt="Website">
         <img src="https://img.shields.io/badge/-MoliCode-242424?style=flat-square&logo=circle&logoColor=white" /></a>
      <a href="https://twitter.com/moli_code" alt="Twitter">
         <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
@@ -37,11 +39,11 @@
         <img src="https://img.shields.io/badge/-GeeksForGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" /></a>
     <a href="https://www.topcoder.com/members/molicode" alt="TopCoder">
         <img src="https://img.shields.io/badge/-TopCoder-29A7DF?style=flat-square&logo=topcoder&logoColor=white" /></a>
-
 </p>
 
+[wave]: https://raw.githubusercontent.com/molicode/molicode/master/wave.gif
 [banner]: https://raw.githubusercontent.com/molicode/molicode/master/banner.jpg
-[website]: http://molicode.github.io/
+[website]: http://molicode.com/
 [github]: https://github.com/molicode
 [linkedin]: https://linkedin.com/in/molicode
 [hackerrank]: https://hackerrank.com/molicode
@@ -62,9 +64,13 @@
 
 ## Support Me
 
-<p>
-    <a href="https://www.buymeacoffee.com/molicode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="molicode" />
-    <a>
+<p align="left">
+  <a href="https://www.buymeacoffee.com/molicode" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt='Buy a Coffee for MoliCode' height="30" width="120"/>
+  </a>
+  <a href='https://ko-fi.com/molicode' target='_blank'> 
+    <img src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy a Coffee for MoliCode' height='30' width="120"/>
+  </a>
 </p>
 
 <br><br>
