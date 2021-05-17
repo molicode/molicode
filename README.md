@@ -1,4 +1,4 @@
-## Hi there, Thanks for stopping by, Feel free see what I'm up to now! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align="top" width="30px">
+## Hi there, Thanks for stopping by, feel free see what I'm up to now! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align="top" width="30px">
 
 [![bg][banner]][website]
 
