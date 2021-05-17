@@ -58,7 +58,7 @@
 </p>
 
 [wave]: https://raw.githubusercontent.com/molicode/molicode/master/wave.gif
-[banner]: https://raw.githubusercontent.com/molicode/molicode/master/banner.jpg
+[banner]: https://raw.githubusercontent.com/molicode/molicode/master/banner.png
 [github]: https://github.com/molicode
 [website]: http://molicode.com/
 [linkedin]: https://linkedin.com/in/molicode
