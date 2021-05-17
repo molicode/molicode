@@ -2,7 +2,7 @@
 
 [![bg][banner]][website]
 
-## Reach Me
+## ⚡ Reach Me
 
 <p id="socialIcons" align="center">
     <a href="https://linkedin.com/in/molicode" alt="LinkedIn">
@@ -62,7 +62,14 @@
 [geeksforgeeks]: https://auth.geeksforgeeks.org/user/molicode1347/profile
 [topcoder]: https://www.topcoder.com/members/molicode
 
-## Support Me
+## 🏆 My GitHub Stats
+
+[![](https://raw.githubusercontent.com/molicode/molicode/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/molicode/molicode/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/molicode/molicode/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/molicode/molicode/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+## 🙏 Support
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/molicode" target="_blank">
