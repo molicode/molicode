@@ -2,6 +2,12 @@
 
 [![bg][banner]][website]
 
+# Luis Molina
+I'm a software engineer, tech enthusiastic and passionate about creating innovative software with a high impact,  based on best practices.
+
+I really enjoy learning programming languages and frameworks. I also enjoy problem solving,  photography and read
+
+
 ## ⚡ Reach Me
 
 <p id="socialIcons" align="center">
