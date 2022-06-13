@@ -1,6 +1,6 @@
 ## Hi there, Thanks for stopping by, feel free see what I'm up to now!
 
-[![bg][banner]][website]
+<!-- [![bg][banner]][website] -->
 
 # ⚡ Luis Molina
 I'm a software engineer, tech enthusiastic and passionate about creating innovative software with a high impact,  based on best practices.
