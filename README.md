@@ -1,4 +1,4 @@
-## Hi there, Thanks for stopping by, feel free see what I'm up to now! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align="top" width="30px">
+## Hi there, Thanks for stopping by, feel free see what I'm up to now!
 
 [![bg][banner]][website]
 
@@ -35,12 +35,6 @@ I really enjoy learning programming languages and frameworks. I also enjoy probl
 [codepen]: https://codepen.io/molicode
 [stackoverflow]: https://stackoverflow.com/users/10636767/molicode
 [website]: http://molicode.com/
-
-## 🏆 My GitHub Stats
-
-[![](https://raw.githubusercontent.com/molicode/molicode/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/molicode/molicode/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/molicode/molicode/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 🙏 Support
 
