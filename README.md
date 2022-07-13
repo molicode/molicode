@@ -20,12 +20,6 @@ I really enjoy learning programming languages and frameworks. I also enjoy probl
     <a href="https://codepen.io/molicode" alt="CodePen">
         <img src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" style="border-radius:2px"/>
     </a>
-    <a href="https://stackoverflow.com/users/10636767/molicode" alt="StackOverflow">
-        <img src="https://img.shields.io/badge/-StackOverflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white" style="border-radius:2px"/>
-    </a>
-    <a href="http://molicode.com/" alt="Website">
-        <img src="https://img.shields.io/badge/-MoliCode-242424?style=flat-square&logo=circle&logoColor=white" style="border-radius:2px"/>
-    </a>
 </p>
 
 [wave]: https://raw.githubusercontent.com/molicode/molicode/master/wave.gif
