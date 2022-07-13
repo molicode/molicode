@@ -29,12 +29,10 @@ I really enjoy learning programming languages and frameworks. I also enjoy probl
 </p>
 
 [wave]: https://raw.githubusercontent.com/molicode/molicode/master/wave.gif
-[banner]: https://raw.githubusercontent.com/molicode/molicode/master/banner.png
 [linkedin]: https://linkedin.com/in/molicode
 [hackerrank]: https://hackerrank.com/molicode
 [codepen]: https://codepen.io/molicode
-[stackoverflow]: https://stackoverflow.com/users/10636767/molicode
-[website]: http://molicode.com/
+
 
 ## 🙏 Support
 
