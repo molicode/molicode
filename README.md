@@ -25,7 +25,6 @@ I really enjoy learning programming languages and frameworks. I also enjoy probl
 [wave]: https://raw.githubusercontent.com/molicode/molicode/master/wave.gif
 [linkedin]: https://linkedin.com/in/molicode
 [hackerrank]: https://hackerrank.com/molicode
-[codepen]: https://codepen.io/molicode
 
 
 ## 🙏 Support
