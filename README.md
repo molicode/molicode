@@ -23,13 +23,4 @@ I really enjoy learning programming languages and frameworks. I also enjoy probl
 [linkedin]: https://linkedin.com/in/molicode
 [hackerrank]: https://hackerrank.com/molicode
 
-
-## 🙏 Support
-
-<p align="left">
-  <a href="https://www.buymeacoffee.com/molicode" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt='Buy a Coffee for MoliCode' height="30" width="120"/>
-  </a>
-</p>
-
 <br><br>
