@@ -17,9 +17,6 @@ I really enjoy learning programming languages and frameworks. I also enjoy probl
     <a href="https://hackerrank.com/molicode" alt="HackerRank">
         <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" style="border-radius:2px"/>
     </a>
-    <a href="https://codepen.io/molicode" alt="CodePen">
-        <img src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" style="border-radius:2px"/>
-    </a>
 </p>
 
 [wave]: https://raw.githubusercontent.com/molicode/molicode/master/wave.gif
